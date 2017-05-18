@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Geofence</string>
+    <string name="geofence_not_available">Geofence not available</string>
+    <string name="geofence_too_many_geofences">Too many geofences</string>
+    <string name="geofence_too_many_pending_intents">Too many pending geofence items</string>
+    <string name="unknown_geofence_error">Geofence unknown error</string>
+</resources>
